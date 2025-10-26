@@ -25,29 +25,56 @@
 
 ### 🛠️ Cloud & DevOps Expertise
 
-- ☁️ **AWS** | **Azure** | **Multi-cloud Strategy**
-- 🧱 **Infrastructure as Code** – Terraform, CloudFormation, ARM Templates
-- 🔒 **Security & Compliance** – IAM, Key Vault, Security Hub
-- ⚙️ **Automation** – CI/CD, GitHub Actions, Azure DevOps
-- 🧩 **Monitoring** – Solarwinds, CloudWatch, Azure Monitor
-- 🧠 **Optimization** – Cost Management, Performance Tuning
+#### ☁️ **Cloud Platforms**
+- **AWS** (EC2, S3, RDS, DynamoDB, Lambda, VPC, Route 53, ELB, IAM, KMS, Security Groups)
+- **Azure** (Compute, Networking, Storage, Monitoring, Azure AD, Key Vault)
+- **Multi-cloud Strategy & Integration**
+
+#### 🧱 **Automation & Infrastructure as Code (IaC)**
+- Tools: **Terraform**, **CloudFormation**, **ARM Templates**
+- Scripting: **Python**, **Bash**
+- Configuration Management: **Ansible**, **Chef**, **Puppet**
+
+#### ⚙️ **DevOps, CI/CD & Containerization**
+- CI/CD Tools: **Jenkins**, **Git**, **Maven**, **GitHub Actions**, **Azure DevOps**, **AWS CodePipeline**
+- **Highlighted Skills:** 🐳 **Docker**, ☸️ **Kubernetes**
+- Methodologies: **DevOps**, **Agile**
+
+#### 🔒 **Security & Compliance**
+- Core Services: **IAM**, **KMS**, **Security Groups**, **NACLs**
+- Practices: Security Hardening, Compliance Standards, Identity & Access Management
+
+#### 🧠 **Architecture & Design**
+- Cloud Architecture & Infrastructure Design  
+- Serverless Architecture  
+- High Availability (HA) & Disaster Recovery (DR) Solutions  
+
+#### 🧩 **Management, Monitoring & Optimization**
+- Monitoring & Logging: **CloudWatch**, **Azure Monitor**, **ELK Stack**, **SolarWinds**
+- Cost Optimization: Cloud Spend Management Strategies
+- Performance Tuning & Resource Optimization
+- Database Management: **RDS**, **DynamoDB**, Backups & Tuning
+
+#### 💻 **Operating Systems**
+- 🐧 **Linux/UNIX Administration** (System configuration, patching, security, automation)
+- 🪟 **Windows Administration** (Active Directory, IIS, PowerShell scripting, performance optimization)
 
 ---
 
 ### 📜 Certifications
 
-- 🥇 AWS Certified Solutions Architect – Associate  
-- 🥈 Microsoft Certified: Azure Administrator Associate  
+- 🥇 **AWS Certified Solutions Architect – Associate**  
+- 🥈 **Microsoft Certified: Azure Administrator Associate**  
 
 ---
 
 ### 📫 Let's Connect
 
 <p align="left">
-  <a href="www.linkedin.com/in/nagarajan-arumugam-7000795a" target="_blank">
+  <a href="https://www.linkedin.com/in/nagarajan-arumugam-7000795a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="catchnmca@gmail.com">
+  <a href="mailto:catchnmca@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
